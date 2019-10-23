@@ -1,5 +1,5 @@
 
-#NetworkStatus
+<h1>NetworkStatus</h1>
 
 This is a copy of <a href="https://www.codeproject.com/Articles/64975/Detect-Internet-Network-Availability">my original argicle on codeproject</a>.
 
