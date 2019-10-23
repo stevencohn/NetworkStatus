@@ -1,8 +1,8 @@
 
-<ul class="download">
-	<li><a href="networkstatus_demo.zip">Download demo - 4.63 KB</a></li>
-	<li><a href="networkstatus_source.zip">Download source - 7.38 KB</a></li>
-</ul>
+#NetworkStatus
+
+This is a copy of <a href="https://www.codeproject.com/Articles/64975/Detect-Internet-Network-Availability">my original argicle on codeproject</a>.
+
 
 <p><img complete="true" height="232" src="images/NetworkStatusDemo.png" width="600" /></p>
 
